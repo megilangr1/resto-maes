@@ -36,6 +36,14 @@
 			.nav-item > a {
 				color: #495057 !important;
 			}
+
+			.form-control {
+				border-radius: 0px;
+			}
+
+			.flat {
+				border-radius: 0px !important;
+			}
 		</style>
 </head>
 <body>
